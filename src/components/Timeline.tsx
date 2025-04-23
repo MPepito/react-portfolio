@@ -32,7 +32,7 @@ function Timeline() {
                 Research project with the startup NIRLAB
               </h3>
             </div>
-            <h4 className="vertical-timeline-element-subtitle">EPFL, Lausanne</h4>
+            <h4 className="vertical-timeline-element-subtitle">Lausanne</h4>
 
             <p>
               Cocaine's origin classifier in PyTorch to abstract representations that capture the essential features of the input spectra and project it in the latent space. Set the first benchmark in accuracy.
@@ -76,7 +76,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Master's degree in Finance</h3>
             <h4 className="vertical-timeline-element-subtitle">University of Zürich</h4>
             <p>
-              Automation, Data Governance, Statistical Analysis
+              Applied ML on time series to real-world datasets, building end-to-end pipelines for forecasting, classification, and trading signal generation.
             </p>
           </VerticalTimelineElement>
 
@@ -89,7 +89,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Data Analyst</h3>
             <h4 className="vertical-timeline-element-subtitle">ED&F MAN, Zürich</h4>
             <p>
-            
+              Design and deploy a vessel line-up management system for key ports, optimizing scheduling and improving destination predictions by three days compared to public data provider.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement

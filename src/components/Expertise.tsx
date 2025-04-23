@@ -58,7 +58,7 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
-                    <h3>Full Stack Web Development</h3>
+                    <h3>Full Stack Development</h3>
                     <p>I have built different mobile app and Web applications, set up DevOps testing, CI/CD pipelines in an Agile settings with different colleagues and friends. My focus on such project are usually on backend development.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
@@ -71,7 +71,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faMoneyBillTrendUp} size="3x"/>
                     <h3>Finance</h3>
-                    <p>With a focus in ML engineering, I bring hands-on experience in financial engineering — including building and deploying trading algorithms that forecast volatility using a GARCH-MIDAS framework with Azure Data Factory and Databricks.</p>
+                    <p>I bring experience in finance and business, along with strong problem-solving, adaptability, and effective communication skills.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (
