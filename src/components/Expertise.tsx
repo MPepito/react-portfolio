@@ -71,7 +71,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faMoneyBillTrendUp} size="3x"/>
                     <h3>Finance</h3>
-                    <p>I bring experience in finance and business, along with strong problem-solving, adaptability, and effective communication skills.</p>
+                    <p>I bring experience in finance and business, along with effective communication skills, and I’m recognized by colleagues for my positive attitude, initiative, and openness to feedback</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (
