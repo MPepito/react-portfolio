@@ -11,8 +11,7 @@ const labelsFirst = [
     "LangChain",
     "Hugging Face",
     "Python",
-    "CUDA",
-    "C"
+    "CUDA"
 
 ];
 
