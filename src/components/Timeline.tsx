@@ -51,7 +51,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Bachelor in Computer Science</h3>
             <h4 className="vertical-timeline-element-subtitle">EPFL, Lausanne</h4>
             <p>
-              Built several hands-on projects across AI, web development, and system design — always looking to bridge academic learning with practical impact.
+              Built several hands-on projects across AI, ML, and system design, always looking to bridge academic learning with practical impact.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -63,7 +63,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Data Analyst</h3>
             <h4 className="vertical-timeline-element-subtitle">COFCO, Geneva</h4>
             <p>
-              Migrated legacy Excel workflows to a cloud-native Azure architecture; implemented ADF-based ETL pipelines for satellite-driven yield prediction in Databricks.
+              Migrated Excel workflows to a cloud-native Azure architecture, implemented ADF-based ETL pipelines for satellite-driven yield prediction in Databricks.
             </p>
           </VerticalTimelineElement>
           
